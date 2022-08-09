@@ -1,0 +1,1321 @@
+@media(min-width: 1400px){
+.img-container img {
+    width: 82%;
+    height: 190px;
+ }
+}
+@media(min-width: 1650px){
+
+    body .container{
+
+        max-width: 1600px;
+
+    }
+
+.gallery-slider .simplegallery .content img {
+
+    height: 1200px !important;
+
+}
+
+.gallery-slider .simplegallery .content {
+
+    height: 1200px !important;  
+
+}
+
+.casting-sec p {
+    line-height: 37px;
+    font-size: 25px;
+}
+
+.place-order-section .btn {
+    width: 285px !important;
+    height: 180px;
+}
+.casting-sec h1 {
+   
+    font-size: 45px;
+}
+.casting-sec a.req-btn {
+   
+    font-size: 25px;
+   
+}
+}
+
+@media(max-width: 1440px){
+
+.gallery-slider .simplegallery .thumbnail .thumb {
+    float: none;
+    width: 209px !important;
+    height: 209px !important;
+}
+.casting-sec {
+    padding: 100px 0 100px;
+}
+.click_next {
+    text-align: center;
+    padding-top: 100px;
+}
+.chemgold-color {
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.why-we-best .chemgold-txt p {
+    font-size: 16px;
+}
+.why-we-best .chemgold-txt p br,
+.why-sec-part .chemgold-txt p br {
+    display: none;
+}
+.why-we-best {
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.how-we-do-it {
+    padding: 45px 0 45px;
+        margin-top: 100px;
+}
+
+.enquiry-sec {
+    padding: 100px 0 150px;
+}
+
+.upload-design-sec .beforeAfter {
+    margin-bottom: 30px;
+}
+.place-order-section {
+    padding: 0px 0 150px;
+}
+.why-sec-part .chemgold-txt .quote-btn {
+    padding-top: 15px;
+}
+.video iframe {
+    height: 350px !important;
+}
+
+.do-it-head p.strong-text {
+ 
+    font-size: 20px;
+   
+}
+.technology-tabs .tab-head {
+   
+    padding: 0 38px 0 0;
+}
+.technology-tabs .tab-content .nav-tabs li a {
+   
+    font-size: 17px;
+    
+}
+.why-we-best .chemgold-txt h2 {
+ 
+    margin-top: 12px;
+}
+.technology-tabs .tab-content .tab-content .colab-txt {
+
+    padding: 0 55px 0 0px;
+}
+/*design page*/
+.casting-sec a.req-btn {
+    margin: 60px 0 0 !important;
+    font-size: 17px;
+}
+.upload-design-sec h2 {
+    font-size: 30px;
+ 
+}
+.upload-design-sec .compare-content p {
+
+    font-size: 16px;
+    margin-bottom: 30px;
+    padding: 0 20px;
+}
+.upload-design-sec .compare-content .upload-btn a.upload {
+    
+    font-size: 16px;
+}
+.upload-design-sec {
+    padding-bottom: 90px;
+}
+.design-process {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.process-heading h2, .difference-heading h2 {
+    font-size: 30px;
+    line-height: 1.8;
+}
+.process-img img {
+    height: 420px;  
+}
+.design .process-img {
+    margin-bottom: 50px;
+}
+.design .content .sr-no h6 {
+    font-size: 100px !important;
+    line-height: 84px;
+
+}
+.design .content .text h4 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.design .content .text p {
+    font-size: 16px;
+    padding-right: 75px;
+}
+.design {
+    margin-bottom: 50px;
+}
+.difference-cadcam h3 {
+    font-size: 25px;
+    line-height: 1.1;
+    margin-bottom: 25px;
+}
+.difference-cadcam p {
+ 
+    font-size: 16px;
+    padding-right: 50px;
+}
+.first-part {
+    margin-bottom: 60px;
+}
+.design-video {
+    padding-top: 150px;
+}
+.design-video h2 {
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.design-video p {
+
+    font-size: 16px;
+    padding-right: 45px;
+}
+.expertise-column {
+   
+    padding: 40px;
+ 
+    min-height: 690px;
+}
+.expertise-column .col-text h4 {
+    font-size: 21px;
+    margin-bottom: 35px;
+}
+.expertise-column .col-text p {
+    font-size: 16px;
+    font-weight: 300 !important;
+    margin-bottom: 30px;
+}
+.expertise-column ul.service-list li {
+    font-size: 16px;
+    font-weight: 300 !important;
+}
+.expertise-column ul.service-list {
+
+    margin-bottom: 55px;
+}
+.expertize {
+    padding-bottom: 130px;
+    padding-top: 130px;
+}
+.place-order-section .col-md-3 .btn {
+    width: 206px;
+}
+.place-order-section .col-md-4 .btn {
+    width: 224px;
+}
+}
+@media(max-width: 1366px){
+/*designpage*/
+.process-img img {
+    height: 392px;
+}
+.upload-design-sec h2 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.upload-design-sec {
+    padding-bottom: 60px;
+}
+.expertise-column .col-text p {
+   
+    text-align: inherit;
+}
+.design .content .text h4 {
+    font-size: 20px;
+   
+}
+}
+@media(max-width: 1280px){
+.why-we-best .chemgold-txt p {
+    font-size: 16px;
+}
+.why-sec-part .chemgold-txt p {
+    
+    font-size: 16px;
+  
+}
+.why-sec-part .chemgold-txt .quote-btn a {
+ 
+    font-size: 17px;
+
+}
+.video iframe {
+    height: 300px !important;
+}
+
+.place-order-section {
+    padding: 0px 0 100px;
+}
+.enquiry-sec {
+    padding: 100px 0 100px;
+}
+.how-we-do-it {
+    padding: 100px 0 100px;
+}
+.chemgold-color {
+    padding-top: 50px;
+   
+}
+.click_next {
+
+    padding-top: 80px;
+}
+.technology-tabs .tab-content .nav-tabs li a {
+    font-size: 16px;
+}
+.technology-tabs .tab-content .nav-tabs li a span.sr-no {
+   
+    font-size: 34px;
+ 
+}
+.casting-sec p {
+    
+    font-size: 16px;
+}
+.technology-tabs .nav-tabs li a {
+    font-size: 16px;
+}
+.technology-tabs .tab-content .tab-content .colab-txt h4 {
+  
+    margin-bottom: 27px;
+    font-size: 26px;
+
+}
+.technology-tabs .tab-content .tab-content .colab-txt p {
+    font-size: 16px;
+    margin-bottom: 30px;
+  
+}
+.do-it-head p.txt {
+    margin-bottom: 35px;
+    font-size: 16px;
+}
+.upload-design-sec .compare-content p {
+    
+    font-size: 16px;
+   
+}
+.upload-design-sec .compare-content .upload-btn a.upload {
+  
+    font-size: 17px;
+}
+.place-order-section .btn {
+    
+    font-size: 17px;
+    }
+    .technology-tabs .nav-tabs li a.show {
+  
+    font-size: 16px;
+}
+/*designpage*/
+.design .content .text p {
+    font-size: 16px;
+    padding-right: 30px;
+}
+.printing-cast p br{
+    display: none;
+}
+.three-gallery {
+    padding: 60px 0;
+}
+.after-3d-print {
+    padding-bottom: 90px;
+    
+}
+}
+@media(max-width: 1200px){
+.design .content .sr-no {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 15%;
+    flex: 0 0 15%;
+    max-width: 15%;
+}
+.design .content .text {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 85%;
+    flex: 0 0 85%;
+    max-width: 85%;
+}
+}
+@media(max-width: 1199px){
+.gallery-slider .simplegallery .thumbnail .thumb {
+    width: 205px !important;
+}
+.gallery-slider .simplegallery  .thumbnail .thumb img {
+   
+    width: 100% !important;  
+}
+.chemgold-head {
+  
+    max-width: 963px;
+  
+}
+.chemgold-color .chemgold-head:before {
+    height: 78px;
+}
+.chemgold-head h3 {
+    font-size: 45px;
+}
+    .technology-tabs .tab-content .tab-content .colab-txt {
+   
+    padding: 0 55px 0 0px;
+}
+.technology-tabs .tab-head {
+  
+    padding: 0 40px 0 0;
+}
+.technology-tabs .tab-content .nav-tabs li a span.sr-no {
+    font-size: 28px;
+}
+.technology-tabs .tab-content .nav-tabs li a {
+    font-size: 16px;
+}
+.do-it-head p.strong-text {
+    font-weight: 600 !important;
+    font-size: 16px;
+ 
+}
+.do-it-head p.small-txt {
+ 
+    font-weight: 600 !important;
+  
+}
+
+.place-order-section .icon-content {
+   
+    padding: 12px;
+    
+}
+.place-order-section .icon-content .icon i {
+    font-size: 70px;
+}
+.upload-design-sec .compare-content p br{
+    display: none;
+}
+.why-we-best .chemgold-txt h2 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.why-sec-part .chemgold-txt .quote-btn {
+    padding-top: 0;
+}
+.place-order-section .btn {
+    font-size: 17px;
+    font-weight: 300;
+    width: 100% !important;
+}
+.technology-tabs .tab-content .tab-content {
+    padding-top: 30px;
+ 
+    padding-bottom: 30px;
+    padding-right: 25px;
+    padding-left: 10px;
+}
+.technology-tabs .tab-content .nav-tabs li a {
+    font-size: 15px;
+}
+.chemgold-gallery .img-container img {
+    width: 229px;
+    height: 229px;
+    margin: 0px;
+}
+.chemgold-gallery h2 {
+  
+    line-height: 1.2;
+}
+.color-of-chem .tabcontent {
+   
+    width: 70%;
+ 
+}
+.color-of-chem .tab {
+  
+    width: 30%;
+}
+.chemgold-head h3 {
+    font-size: 60px;
+}
+.chemgold-color .chemgold-head:before {
+    height: 95px;
+}
+/*design page*/
+.process-img img {
+    height: 334px;
+}
+.difference-cadcam h3 {
+    font-size: 22px;
+    line-height: 1.1;
+    margin-bottom: 20px;
+}
+.difference-cadcam p {
+    font-size: 16px;
+    padding-right: 0px;
+}
+.first-part {
+    margin-bottom: 30px;
+}
+.design-video {
+    padding-top: 100px;
+}
+.design-video h2 {
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+.design-video p {
+    font-size: 16px;
+    padding-right: 0;
+}
+.expertise-column .col-text h4 {
+    font-size: 16px;
+    margin-bottom: 23px;
+}
+.expertise-column {
+    padding: 30px;
+    min-height: 695px;
+}
+.expertize {
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.surface-sec .compare-content p br{
+    display: none;
+}
+.printing-cast {
+  
+    padding: 70px 0;
+}
+.surface-sec {
+    padding-bottom: 70px;
+}
+}
+@media(max-width: 1024px){
+.casting-sec {
+    padding: 80px 0 80px;
+}
+.click_next {
+    padding-top: 55px;
+}
+.gallery-slider .simplegallery .content img {
+   
+    height: 750px !important;
+  
+}
+.gallery-slider .simplegallery .content {
+   
+    height: 750px !important;
+    }
+    .gallery-slider .simplegallery .thumbnail .thumb img {
+  
+    width: 200px !important;
+    
+}
+.technology-tabs .tab-content .tab-content .colab-txt p {
+    font-size: 16px;
+  
+    line-height: 29px;
+}
+.upload-design-sec .compare-content p {
+    font-size: 16px;
+}
+.place-order-section .icon-content .title h4 {
+ 
+    font-size: 16px;
+   
+}
+.why-we-best {
+
+    padding-top: 60px;
+}
+.upload-design-sec .compare-content .upload-btn a.upload {
+    font-size: 17px;
+}
+.design-process {
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+.process-heading h2{
+        margin-bottom: 10px;
+}
+.process-img img {
+    height: 290px;
+}
+.design .content .sr-no h6 {
+    font-size: 70px !important;
+    line-height: 53px;
+}
+.design .content .text p {
+    font-size: 16px;
+    padding-right: 10px;
+}
+}
+@media(max-width: 991px){
+.gallery-slider .simplegallery .thumbnail .thumb {
+    width: 21% !important;
+    height: 180px !important;
+}
+.gallery-slider .simplegallery .thumbnail .thumb img {
+    width: 100% !important;
+}
+.chemgold-head {
+    max-width: 729px;
+}
+.chemgold-color .chemgold-head:before {
+    height: 111px;
+}
+.chemgold-head h3 {
+    font-size: 70px;
+}
+.why-we-best .chemgold-txt h2 {
+    font-size: 31px;
+    margin-bottom: 10px;
+    line-height: 40px;
+    margin-top: 11px;
+}
+.why-we-best .chemgold-txt p {
+    font-size: 16px;
+    line-height: 23px;
+    margin-bottom: 20px;
+}
+.why-we-best {
+    padding-bottom: 60px;
+}
+.why-sec-part .chemgold-txt p {
+    font-size: 16px;
+    line-height: 23px;
+    margin-bottom: 20px;
+}
+.why-sec-part .chemgold-txt .quote-btn a {
+    font-size: 15px;
+        margin-right: 25px;
+}
+
+.how-we-do-it .head-txt p {
+
+    font-size: 19px;
+}
+.technology-tabs .tab-content .tab-content .colab-txt {
+    padding: 0 22px 0 0px;
+}
+.technology-tabs .tab-content .tab-content .colab-txt h4 {
+    
+    margin-bottom: 18px;
+    font-size: 23px;
+  
+}
+.technology-tabs .tab-content .tab-content .colab-txt p {
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 28px;
+}
+.how-we-do-it .tab-content .colab-img img {
+  
+    height: 250px;
+   
+}
+.technology-tabs .tab-head {
+    padding: 0 0px 10px 0;
+}
+.technology-tabs .tab-head h3 br {
+    display: none;
+}
+.technology-tabs .tab-head h3 {
+  
+    font-size: 25px;
+    text-align: center;
+}
+.technology-tabs .tab-content .tab-content .tab-pane .row {
+    margin-bottom: 40px !important;
+}
+.enquiry-sec .col-md-9 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.place-order-section .icon-content .icon i {
+    font-size: 45px;
+}
+.place-order-section .icon-content .title h4 {
+    font-size: 12px;
+}
+.technology-tabs .nav-tabs li a {
+    font-size: 16px;
+}
+.why-we-best .col-md-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.why-we-best .chemgold-txt {
+    text-align: left;
+    padding-left: 0;
+}
+.why-sec-part .row {
+    flex-direction: column-reverse;
+}
+.why-sec-part .col-md-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.why-sec-part .gold-img {
+    padding-left: 0;
+}
+.upload-design-sec .beforeAfter {
+    margin-bottom: 20px;
+}
+.upload-design-sec .compare-content {
+    padding: 0px;
+}
+.place-order-section .col-md-8 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.upload-design-sec .col-md-10 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.do-it-head h2 {
+    font-size: 40px;
+    margin-bottom: 10px;
+   
+    line-height: 32px;
+}
+.technology-tabs .tab-content .tab-content {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.technology-tabs .tab-content .nav-tabs li a {
+ 
+    padding: 0px;
+    
+}
+.color-gold {
+    padding: 50px 0px 0;
+}
+.chemgold-gallery .img-container img {
+    width: 168px;
+    height: 168px;
+    margin: 0px;
+}
+.color-of-chem .tabcontent img {
+  
+    height: auto;
+   
+}
+.img-container img {
+   
+    height: 159px;
+    }
+ .chemgold-head h3 {
+    font-size: 45px;
+}   
+ .chemgold-color .chemgold-head:before {
+    height: 75px;
+} 
+.img-container h5.click-heading {
+    
+    font-size: 15px;
+}  
+.img-container img {
+    height: 145px;
+    width: 100%;
+}
+.img-container {
+    margin: 0px;
+    padding: 0px 0 0;
+}
+.img-container h5.click-heading {
+    margin-bottom: 10px;
+    line-height: 23px;
+    font-size: 15px;
+}
+.img-container img {
+    height: 119px;
+    width: 100%;
+}
+.color-gold {
+    padding: 20px 0px 0;
+}
+.tabs-slider-new {
+
+    padding-left: 56px;
+}
+/*designpg*/
+.place-order-section .btn {
+    font-size: 15px;
+ 
+}
+.process-img img {
+    height: 253px;
+}
+.expertize .col-md-4 , .design-video .col-md-5,.design-video .col-md-7,
+.difference-cadcam .col-md-6{
+    webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.design-video h2 br {
+    display: none;
+}
+.expertise-column {
+   
+    min-height: inherit;
+    margin-bottom: 25px;
+}
+.design-video .video iframe {
+    height: 380px !important;
+}
+.process-img img {
+    height: 235px;
+}
+.three-gallery .three-img img {
+    height: 280px;
+    object-fit: cover;
+}
+.img-over-txt h3 {
+
+    font-size: 20px;
+}
+.after-3d-print .three-img img {
+    width: 100% !important;
+    height: 346px;
+    object-fit: cover;
+}
+.after-3d-print p br{
+    display: none;
+}
+.place-order-section .btn span.material-symbols-outlined {
+    font-size: 50px !important;
+  
+    padding-bottom: 5px;
+}
+.place-order-section .btn {
+    font-size: 11px !important;
+ 
+}
+}
+@media(max-width:768px){
+
+.how-we-do-it .do-it-head {
+    
+    padding: 35px 35px 35px 35px;
+}
+.how-we-do-it .head-txt p {
+    font-size: 16px;
+}
+.how-we-do-it .head-txt {
+   
+    padding: 22px 19px 22px 19px;
+}
+.how-we-do-it .do-it-head h2 {
+    font-size: 28px;
+    
+}
+.technology-tabs .tab-content .tab-content {
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+.technology-tabs .tab-content .tab-content .colab-txt h4 {
+    margin-bottom: 8px;
+    font-size: 23px;
+    line-height: 31px;
+}
+.technology-tabs .tab-content .tab-content .colab-txt p {
+
+    margin-bottom: 16px;
+}
+.technology-tabs .tab-content .tab-content .colab-txt a.learn-btn {
+ 
+    font-size: 17px;
+}
+.do-it-head {
+    padding: 25px 0px 25px 0px;
+}
+.how-we-do-it {
+  
+    margin-top: 50px;
+   
+}
+.chemgold-head h3 {
+    font-size: 50px;
+}
+.chemgold-color .chemgold-head:before {
+    height: 84px;
+}
+.color-gold {
+    padding: 25px 0px 0;
+}
+/*designpage*/
+.upload-design-sec .compare-content .upload-btn a.upload {
+    font-size: 15px;
+}
+.expertize {
+    padding-bottom: 70px;
+ 
+}
+.design-video {
+    padding-top: 70px;
+}
+.difference-cadcam {
+    padding: 70px 0;
+}
+.design {
+    margin-bottom: 10px;
+}
+.upload-btn {
+    padding-top: 0;
+}
+.casting-sec a.req-btn {
+    margin: 30px 0 0 !important;
+    font-size: 15px;
+}
+}
+@media(max-width:767px){
+.casting-sec h1 {
+    margin-bottom: 29px;
+ 
+    font-size: 40px;
+}
+.casting-sec p br {
+    display: none;
+}
+.gallery-slider .simplegallery .thumbnail .thumb {
+    width: 20% !important;
+    height: 100px !important;
+}
+.chemgold-head h3 {
+    font-size: 50px;
+}
+.chemgold-color .chemgold-head:before {
+    height: 85px;
+}
+.chemgold-head {
+    max-width: 100%;
+}
+.why-we-best .chemgold-txt {
+    text-align: left;
+    padding-left: 0;
+}
+.why-we-best {
+    padding-bottom: 0px;
+}
+.why-sec-part .chemgold-txt .quote-btn {
+    padding-top: 0;
+    padding-bottom: 30px;
+}
+.why-sec-part .gold-img {
+    padding-left: 0;
+}
+.how-we-do-it .do-it-head h2 {
+    
+    text-align: center;
+}
+.how-we-do-it .head-txt {
+ 
+    padding: 36px 35px 36px 36px;
+}
+.container {
+    max-width: 100%;
+}
+.technology-tabs .tab-content .tab-content .colab-txt {
+    padding: 0 0px 20px 0px;
+    text-align: left;
+}
+.technology-tabs .tab-content .tab-content {
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+.how-we-do-it .tab-content .colab-img img {
+   
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.place-order-section .icon-content {
+    padding: 12px;
+    margin-bottom: 20px;
+}
+.technology-tabs .tab-content .nav-tabs li a {
+    font-size: 13px;
+}
+.technology-tabs .tab-content .nav-tabs li a span.sr-no {
+    font-size: 20px;
+}
+.upload-design-sec img {
+    height: 349px !important;
+    object-fit: cover;
+}
+.place-order-section .btn {
+    font-size: 17px !important;
+    font-weight: 300;
+    width: 198px !important;
+    margin-bottom: 17px;
+}
+.how-we-do-it .tab-content .colab-img img {
+    height: auto;
+}
+.click_next {
+    padding-top: 0;
+}
+.chemgold-gallery .img-container img {
+    width: 255px;
+    height: 255px;
+    margin: 15px 0 0px;
+}
+.chemgold-gallery {
+  
+    padding: 70px 0 80px;
+}
+
+.color-of-chem .tabcontent img {
+    height: auto;
+}
+
+.color-of-chem .tab button {
+    
+    font-size: 12px;
+}
+.color-of-chem .tab {
+    width: 25%;
+}
+.color-of-chem .tabcontent {
+    width: 75%;
+}
+.lightbox .btn-close {
+    
+    color: #fff;
+}
+.img-container img {
+    height: 124px;
+    width: 124px;
+}
+.tabs-slider-new {
+    padding-left: 0;
+}
+/*design*/
+.upload-design-sec h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.process-img img {
+    height: auto;
+}
+.design .process-img {
+    margin-bottom: 20px;
+}
+.design-video h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+     line-height: 1.1;
+}
+.process-heading h2, .difference-heading h2 {
+    font-size: 28px;
+    line-height: 1.1;
+}
+.difference-cadcam h3 {
+    font-size: 20px;
+    line-height: 1;
+    margin-bottom: 15px;
+}
+.expertise-column ul.service-list {
+    margin-bottom: 25px;
+}
+.surface-sec h2 {
+    font-size: 21px;
+    margin-bottom: 24px;
+  
+    line-height: 1;
+}
+.surface-sec .compare-content p {
+
+    margin-bottom: 20px;
+    padding: 0 0px;
+}
+.printing-cast .difference-heading h2 {
+    font-size: 24px;
+    margin-bottom: 29px;
+   
+}
+.text-part {
+    margin-bottom: 30px;
+}
+.three-gallery .three-img img {
+    height: auto;
+    
+}
+.after-3d-print .three-img img {
+    
+    height: auto;
+    
+}
+.after-3d-print h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    }
+}
+@media(max-width:640px){
+.why-we-best {
+    padding-bottom: 30px;
+}
+.how-we-do-it {
+    padding: 50px 0 70px;
+}
+.do-it-head {
+    padding: 25px 0px 0px 0px;
+}
+.enquiry-sec {
+    padding: 70px 0 70px;
+}
+.place-order-section {
+    padding: 70px 0 70px;
+}
+.casting-sec {
+    padding: 70px 0 70px;
+}
+.lightbox .img-show img {
+    width: 100%;
+    height: auto !important;
+    
+}
+.color-of-chem .tabcontent {
+    width: 70%;
+}
+.color-of-chem .tab {
+    width: 30%;
+    padding: 40px 0 30px!important;
+}
+/*design*/
+.expertize {
+    padding-bottom: 0;
+}
+.expertise-column ul.service-list {
+    padding-left: 21px;
+   
+}
+}
+@media(max-width:575px){
+.how-we-do-it .do-it-head {
+    padding: 35px 15px 35px 15px;
+}
+.how-we-do-it .head-txt {
+    padding: 36px 15px 36px 15px;
+}
+.how-we-do-it .tab-content .col-md-4 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.how-we-tabs .col-lg-8 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.upload-design-sec .compare-content p {
+    font-size: 16px;
+}
+.place-order-section .btn span.material-symbols-outlined {
+    font-size: 50px !important;
+}
+.place-order-section .btn {
+    font-size: 16px;
+
+}
+.chemgold-head h3 {
+    font-size: 35px;
+}
+.chemgold-color .chemgold-head:before {
+    height: 63px;
+}
+.chemgold-color {
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.gallery-slider .simplegallery .thumbnail .thumb {
+   
+    margin: 0 !important;
+}
+
+.color-of-chem .tabcontent {
+    width: 100%;
+}
+.color-of-chem .tab {
+    width: 100%;
+    padding: 0 0 30px!important;
+}
+.color-of-chem .tabcontent img {
+    height: auto;
+}
+.chemgold-color {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.lightbox .btn-close {
+    line-height: 12px !important;
+}
+.do-it-head p.strong-text {
+   
+    margin-bottom: 15px;
+}
+.do-it-head p.txt {
+    margin-bottom: 15px;
+    
+}
+.place-order-section {
+    padding: 0px 0 70px;
+}
+.how-we-do-it .do-it-head {
+    padding: 0px 15px 15px 15px;
+}
+.how-we-do-it {
+    padding: 70px 0 70px;
+}
+.why-we-best {
+   
+    padding-top: 70px;
+}
+.color-of-chem .tabcontent {
+    width: 70%;
+}
+.color-of-chem .tab {
+    width: 30%;
+    padding: 40px 0 30px!important;
+}
+
+.chemgold-color {
+   
+    padding-bottom: 16px;
+}
+.img-container img {
+    height: 120px;
+    width: 133px;
+}
+/*design*/
+.design-video .video iframe {
+    height: 254px !important;
+}
+.expertize {
+    padding-bottom: 50px;
+}
+.click_next {
+    padding-top: 47px;
+}
+}
+@media(max-width:480px){
+.gallery-slider .simplegallery .content {
+    height: 560px !important;
+}
+.gallery-slider .simplegallery .content img {
+    height: 611px !important;
+}
+
+.video iframe {
+    height: 194px !important;
+}
+.why-we-best .chemgold-txt h2 {
+    font-size: 28px;
+    
+}
+.how-we-do-it .head-txt {
+    padding: 25px 15px 25px 15px;
+}
+.technology-tabs .nav-tabs li a {
+   
+    padding: 9px 10px;
+}
+.technology-tabs .tab-content .tab-content .tab-pane .row {
+    margin-bottom: 10px !important;
+}
+.technology-tabs .how-we-tabs .nav-tabs li {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.technology-tabs .tab-content .nav-tabs li a {
+    font-size: 15px;
+    margin-bottom: 10px;
+    height: 82px;
+    line-height: 107px;
+}
+.technology-tabs .tab-content .nav-tabs li a:before{
+    display: none;
+}
+.img-container img {
+    height: 225px;
+    width: 48%;
+    margin: 0 3px 10px;
+}
+
+.color-of-chem .tab {
+    width: 25%;
+
+}
+.color-of-chem .tabcontent {
+    width: 75%;
+}
+.color-of-chem .tab button {
+    font-size: 11px;
+}
+.difference-cadcam h3 {
+   
+    line-height: 1.2;
+   
+}
+.design-video .video iframe {
+    height: 195px !important;
+}
+.surface-sec h2 {
+ 
+    line-height: 34px;
+}
+.printing-cast .difference-heading h2 {
+    font-size: 21px;
+   line-height: 34px;
+}
+}
+@media(max-width:375px){
+.img-container img {
+    width: 100%;
+    height: auto;
+}
+.color-of-chem .tabcontent {
+    width: 100%;
+}
+.color-of-chem .tab {
+    width: 100%;
+    padding: 20px !important;
+}
+}
